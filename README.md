@@ -1,2 +1,4 @@
 # resume
-It's my resume, in JSON. Pretty self explanatory.
+It's my resumé, in JSON. Pretty self explanatory.
+
+Based on the [JSON Resume](https://jsonresume.org/) standard.
