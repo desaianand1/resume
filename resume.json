@@ -1,3 +1,145 @@
 {
-    "test":"this should be an update"
+    "meta": {
+        "theme": "elegant"
+    },
+    "basics": {
+        "name": "Anand Desai",
+        "label": "Full Stack Software Engineer",
+        "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+        "summary": "I'm a Full Stack Software Engineer that loves working on nifty tech. I've mostly worked at small to mid-sized companies so I'm used to dynamic environments and user-focused product building. ",
+        "website": "https://desaianand1.github.io/",
+        "email": "desaianand456@gmail.com",
+        "location": {
+            "city": "Washington, D.C.",
+            "countryCode": "US"
+        },
+        "profiles": [
+            {
+                "url": "https://www.linkedin.com/in/anand-desai-007/",
+                "username": "anand-desai-007",
+                "network": "linkedin"
+            },
+            {
+                "url": "https://github.com/desaianand1",
+                "username": "desaianand1",
+                "network": "github"
+            }
+        ]
+    },
+    "education": [
+        {
+            "endDate": "2021-08-30",
+            "startDate": "2017-09-01",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "institution": "Rose-Hulman Institute of Technology"
+        }
+    ],
+    "references": [],
+    "skills": [
+        {
+            "keywords": [
+                "React / Next.js",
+                "React Native",
+                "Javascript / Typescript",
+                "Redux / MobX / Zustand / Jotai",
+                "HTML / CSS / SCSS"
+            ],
+            "level": "Proficient",
+            "name": "Frontend"
+        },
+        {
+            "keywords": [
+                "Node / Express",
+                "C# / .NET Core",
+                "Python",
+                "Kotlin",
+                "Redis",
+                "MongoDB / PostgreSQL / MSSQL"
+            ],
+            "level": "Highly Proficient",
+            "name": "Backend"
+        },
+        {
+            "keywords": [
+                "AWS (Lambda, EC2 , SQS, SNS, DynamoDB, S3)",
+                "Azure (AKS, Redis, DevOps, SQL DB, Pipelines)",
+                "Netlify"
+            ],
+            "level": "Skilled",
+            "name": "Cloud"
+        },
+        {
+            "keywords": [
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "JUnit / xUnit / Jest / PyTest / Cypress",
+                "Git / VCS",
+                "Linux / POSIX"
+            ],
+            "level": "Highly Proficient",
+            "name": "Tooling"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Infosys Prize - Best Voted Project",
+            "awarder": "Harvard University - MakeHarvard Hackathon"
+        },
+        {
+            "title": "CSSE483 - Best Android App",
+            "awarder": "Rose-Hulman Institute of Technology, CSSE Department"
+        },
+        {
+            "title": "Runner up - Best Project",
+            "awarder": "University of Louisville - DerbyHacks Hackathon"
+        }
+    ],
+    "work": [
+        {
+            "summary": "",
+            "name": "FetchIt (Schultz Technology)",
+            "location": "Philadelphia, PA",
+            "position": "Software Engineer",
+            "startDate": "2023-05-08",
+            "highlights": [
+                "C# / .NET",
+                "React / Next.js",
+                "Node.js / Express",
+                "Kubernetes / Docker"
+            ]
+        },
+        {
+            "summary": "",
+            "name": "Zotec Partners",
+            "location": "Carmel, IN",
+            "position": "Software Engineer",
+            "startDate": "2022-04-11",
+            "endDate": "2022-10-06",
+            "highlights": [
+                "Python",
+                "FastAPI / Pydantic",
+                "Kubernetes / Docker",
+                "AWS"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cognitive Science"
+        },
+        {
+            "name": "Unity Game Development"
+        },
+        {
+            "name": "Graphic Design / Pixel Art"
+        },
+        {
+            "name": "Hiking"
+        },
+        {
+            "name": "Baking"
+        }
+    ]
 }
